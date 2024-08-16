@@ -7,19 +7,19 @@ This repository contains the code for evaluating and comparing the performance o
 - `cancer_type.csv`: CSV file containing the dataset used in the project.
 
 ## Evaluated Metrices
- **Accuracy**
- **F1 Score**
- **Confusion Matrix**
+ - Accuracy
+ - F1 Score
+ - Confusion Matrix
 
 ## Models Evaluated
- **Logistic Regression**
- **Decision Tree**
- **Random Forest**
- **Support Vector Machine (SVM)**
- **K-Nearest Neighbors (KNN)**
- **Naive Bayes**
- **Gradient Boosting**
- **Artificial Neural Network (ANN)**
+ - Logistic Regression
+ - Decision Tree
+ - Random Forest
+ - Support Vector Machine (SVM)
+ - K-Nearest Neighbors (KNN)
+ - Naive Bayes
+ - Gradient Boosting
+ - Artificial Neural Network (ANN)
 
 The objective is to test and compare these models to identify the one with the highest accuracy and F1 Score for classifying cancer types.
 
